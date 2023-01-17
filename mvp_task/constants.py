@@ -1,0 +1,8 @@
+SELLER_ROLE = "S"
+BUYER_ROLE = "B"
+
+ROLES = {
+    SELLER_ROLE: 'Seller',
+    BUYER_ROLE: 'Buyer',
+}
+AMOUNT_CHOICES = (5, 10, 20, 50, 100)
